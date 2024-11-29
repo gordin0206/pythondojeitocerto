@@ -1,0 +1,5 @@
+usuario = input("digite seu nome de usuario:  ")
+if usuario == "nome chave":
+    print ("acesso aceito")
+else:
+    print ("usuario não autorizado...")
